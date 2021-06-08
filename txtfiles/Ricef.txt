@@ -1,0 +1,30 @@
+-Nutrients:  
+
+N
+Dosage: 50(kg/acre)
+
+*P2O5
+Dosage: 12(kg/acre)
+
+K2O
+Dosage: 12(kg/acre)
+
+-ORGANIC FERITILIZERS:
+
+urea(46%N)
+Dosage: 110(kg/acre)
+
+DAP OR (18%N,46%P2O5)
+Dosage: 27(kg/acre)
+
+
+-INORGANIC FERTILIZERS:
+
+SUPER-PHOSPAHATE(16%P2O5):
+Dosage: 75(kg/acre)
+
+MURIATE OF PHOTASH(60%K2O):
+Dosage: 20(kg/acre)
+
+ 
+

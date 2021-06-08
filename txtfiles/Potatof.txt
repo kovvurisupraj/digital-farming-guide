@@ -1,0 +1,32 @@
+-Nutrients:  
+
+N
+Dosage: 44(kg/acre)
+
+*P2O5
+Dosage:53(kg/acre)
+
+K2O
+Dosage: 106(kg/acre)
+
+-ORGANIC FERITILIZERS:
+
+urea(46%N)
+Dosage: 110(kg/acre)
+
+ammonium chloride (18%N,26%P2O5)
+Dosage: 42(kg/acre)
+
+
+-INORGANIC FERTILIZERS:
+
+Ammonium nitrate(34%):
+Dosage: 133 (kg/acre)
+
+potssium sulphate(50%):
+Dosage:212 (kg/acre)
+
+magnesium sulfate(16%):
+Dosage: 93kg(kg/acre)
+
+ 
