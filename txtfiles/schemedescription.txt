@@ -1,509 +1,91 @@
 Description
 
-To provide income support to all eligible land-holding farmers and their families. PM-
-KISAN scheme also aims to supplement the financial needs of the farmers in
-procuring various inputs to ensure proper crop health and appropriate yields,
-commensurate with the anticipated farm income. The scheme is expected to increase
-the coverage of PM-KISAN to around 14.5 crore beneficiaries. It aims to cover around
-2 crores more farmers with an estimated expenditure of Rs. 87,217.50 crores that will
-be funded by the Central Government for the year 2019-20.
+To provide income support to all eligible land-holding farmers and their families. PM-KISAN scheme also aims to supplement the financial needs of the farmers in procuring various inputs to ensure proper crop health and appropriate yields, commensurate with the anticipated farm income. The scheme is expected to increase the coverage of PM-KISAN to around 14.5 crore beneficiaries. It aims to cover around 2 crores more farmers with an estimated expenditure of Rs. 87,217.50 crores that will be funded by the Central Government for the year 2019-20.
 @
 Description
 
-The PM-KMY was launched by Agriculture Minister Narendra Singh Tomar in the
-national capital, which entitles eligible farmers for monthly pension of 3,000 per
-month. The Ministry of Agriculture and Farmers’ Welfare has roped in CSC, a special
-purpose vehicle under the Ministry of Electronics and IT, as exclusive “enrolling
-agency” for enrollment of subscribers. Mr. Tyagi said enrolment process is very
-simple. Any eligible farmer who wants to join the scheme can visit his nearest CSC
-along with his Aadhaar card and bank passbook or account details. Village Level
-Entrepreneurs who manage CSCs, will complete online registration process after
-taking all relevant details of farmers. After the authentication process is completed, the
-enrolled farmer will be informed and his PM-KMY Pension Card with a unique
-Pension Account Number will be generated. Farmers will have to make a monthly
-contribution of 55 to 200 depending on the age of entry in the pension fund till they
-reach the retirement age of 60 years. The central government will make an equal
-contribution of the same amount in the pension fund. Farmer’s spouse is also eligible
-to get a separate pension of 3,000 upon making separate contribution to the fund. In
-case of death of the farmer before the retirement date, the spouse may continue with
-the scheme. If the spouse does not wish to contribute, the total contribution made by
-the farmer along with interest will be paid to the spouse. The scheme has an outlay of
-Rs 10,774 crore for the next three years.
+The PM-KMY was launched by Agriculture Minister Narendra Singh Tomar in the national capital, which entitles eligible farmers for monthly pension of 3,000 per month. The Ministry of Agriculture and Farmers’ Welfare has roped in CSC, a special purpose vehicle under the Ministry of Electronics and IT, as exclusive “enrolling agency” for enrollment of subscribers. Mr. Tyagi said enrolment process is very simple. Any eligible farmer who wants to join the scheme can visit his nearest CSC along with his Aadhaar card and bank passbook or account details. Village Level Entrepreneurs who manage CSCs, will complete online registration process after taking all relevant details of farmers. After the authentication process is completed, the enrolled farmer will be informed and his PM-KMY Pension Card with a unique Pension Account Number will be generated. Farmers will have to make a monthly contribution of 55 to 200 depending on the age of entry in the pension fund till they reach the retirement age of 60 years. The central government will make an equal contribution of the same amount in the pension fund. Farmer’s spouse is also eligible to get a separate pension of 3,000 upon making separate contribution to the fund. In case of death of the farmer before the retirement date, the spouse may continue with the scheme. If the spouse does not wish to contribute, the total contribution made by the farmer along with interest will be paid to the spouse. The scheme has an outlay of Rs 10,774 crore for the next three years.
 @
 Description
 
-The Centre recently launched the Pradhan Mantri Annadata Aay SanraksHan Abhiyan
-(PM-AASHA) to ensure better prices for farm produce. The three different
-components of the scheme, it is said, will cover gaps in the procurement and
-compensation mechanism for crops and help boost farmers’ income. Components of
-PM-AASHA : (i)Price Support Scheme (PSS) : Under the PSS, Central nodal agencies
-will procure pulses, oilseeds and copra with proactive role of state governments. The
-Food corporation of India (FCI) and the National Agricultural Cooperative Marketing
-Federation of India (NAFED) will help implement the scheme. The procurement
-expenditure and losses due to procurement will be borne by Central Government as
-per norms. The government will procure 25% of the marketable surplus of farmers for
-eligible crops. The Centre has made a provision of about Rs 16,000 crores to be
-provided as bank guarantee for the agencies to procure from farmers. (ii)Price
-Deficiency Payment Scheme (PDPS) : Under the PDPS, the state will provide the
-difference between the prices prevailing in mandis and the MSP. All oil-seeds are to
-be covered under PDPS. This scheme is modelled on the Bhawantar Bhugtan Yojana
-that has been implemented by the Madhya Pradesh state government as well as
-Bhavantar Bharpai Yojana of Haryana Government. There will be no physical
-procurement of crops. (iii)Pilot of Private Procurement & Stockist Scheme (PPPS) : In
-lieu of PSS and PDPS, in certain pilot districts the PPPS will be tried out. Private
-agencies will procure oilseeds in coordination with the government. The selected
-private agency shall procure the commodity at MSP in the notified markets during the
-notified period from the registered farmers in consonance with the PPSS Guidelines,
-whenever the prices in the market fall below the notified MSP and whenever
-authorized by the state/UT government.
+The Centre recently launched the Pradhan Mantri Annadata Aay SanraksHan Abhiyan (PM-AASHA) to ensure better prices for farm produce. The three different components of the scheme, it is said, will cover gaps in the procurement and compensation mechanism for crops and help boost farmers’ income. Components of PM-AASHA : (i)Price Support Scheme (PSS) : Under the PSS, Central nodal agencies will procure pulses, oilseeds and copra with proactive role of state governments. The Food corporation of India (FCI) and the National Agricultural Cooperative Marketing Federation of India (NAFED) will help implement the scheme. The procurement expenditure and losses due to procurement will be borne by Central Government as per norms. The government will procure 25% of the marketable surplus of farmers for eligible crops. The Centre has made a provision of about Rs 16,000 crores to be provided as bank guarantee for the agencies to procure from farmers. (ii)Price Deficiency Payment Scheme (PDPS) : Under the PDPS, the state will provide the difference between the prices prevailing in mandis and the MSP. All oil-seeds are to be covered under PDPS. This scheme is modelled on the Bhawantar Bhugtan Yojana that has been implemented by the Madhya Pradesh state government as well as Bhavantar Bharpai Yojana of Haryana Government. There will be no physical procurement of crops. (iii)Pilot of Private Procurement & Stockist Scheme (PPPS) : In lieu of PSS and PDPS, in certain pilot districts the PPPS will be tried out. Private agencies will procure oilseeds in coordination with the government. The selected private agency shall procure the commodity at MSP in the notified markets during the notified period from the registered farmers in consonance with the PPSS Guidelines, whenever the prices in the market fall below the notified MSP and wheneverauthorized by the state/UT government.
 @
 Description
 
-Indian Council of Agricultural Research (ICAR) recently launched NATIONAL
-AGRICULTURAL HIGHER EDUCATION PROJECT (NAHEP). This project will
-be funded by the World Bank and the Indian Government on a 50:50 basis. Overall,
-the project aims to develop resources and mechanism for supporting infrastructure,
-faculty and student advancement, and providing means for better governance and
-management of agricultural universities, so that a holistic model can be developed to
-raise the standard of current agricultural education system that provides more jobs and
-is entrepreneurship oriented and on par with the global agriculture education
-standards. There are three components to the project: Support to agricultural
-universities by financing investments by participating AUs to improve the quality and
-relevance of agricultural education and research toward agricultural transformation.
-Investment in ICAR leadership in agricultural higher education. This component will
-finance the carrying out of institutional reforms within ICAR in order to enhance
-ICAR’s effectiveness. Project management and learning to strengthen ICAR’s
-management capacity for project implementation. It would contribute to the
-achievement of four Sustainable Development Goals, namely: SDG 4: Inclusive and
-equitable quality education. SDG 8: Inclusive and sustainable economic growth,
-employment, and decent work for all. SDG 9: Building resilient infrastructure,
-promoting sustainable industrialization, and fostering innovation. SDG 13: Take
-urgent action to combat climate change and its impact. Other Initiatives for
-Agriculture Education.
+Indian Council of Agricultural Research (ICAR) recently launched NATIONAL AGRICULTURAL HIGHER EDUCATION PROJECT (NAHEP). This project will be funded by the World Bank and the Indian Government on a 50:50 basis. Overall,the project aims to develop resources and mechanism for supporting infrastructure,faculty and student advancement, and providing means for better governance and management of agricultural universities, so that a holistic model can be developed to raise the standard of current agricultural education system that provides more jobs and is entrepreneurship oriented and on par with the global agriculture education standards. There are three components to the project: Support to agricultural universities by financing investments by participating AUs to improve the quality and relevance of agricultural education and research toward agricultural transformation.Investment in ICAR leadership in agricultural higher education. This component will finance the carrying out of institutional reforms within ICAR in order to enhance ICAR’s effectiveness. Project management and learning to strengthen ICAR’s management capacity for project implementation. It would contribute to the achievement of four Sustainable Development Goals, namely: SDG 4: Inclusive and equitable quality education. SDG 8: Inclusive and sustainable economic growth,employment, and decent work for all. SDG 9: Building resilient infrastructure,promoting sustainable industrialization, and fostering innovation. SDG 13: Take urgent action to combat climate change and its impact. Other Initiatives for Agriculture Education.
 @
 Description
 
-The Government of India has approved the proposal of the Department of Agriculture
-and Cooperation for the continuation and integration of on-going Central Sector
-Schemes as Integrated Scheme for Agricultural Marketing (ISAM). The ISAM
-consists of the following sub schemes namely : 1) Agricultural Marketing
-Infrastructure: For the creation of Agricultural Marketing Infrastructure, Grameen
-Bhandaran Yojana (GBY) along with Scheme for Development/ Strengthening of
-Agricultural Marketing Infrastructure, Grading and Standardisation (AMIGS) are
-coordination. 2) Marketing Research and Information Network: The availability and
-dissemination of complete and accurate marketing information is the primary
-requirement for operational and pricing efficiency in the marketing system. 3)
-Strengthening of Agmark Grading Facilities: SAGF aims to help the DMI to
-implement the Agricultural Produce Act 1937 including the meeting expenditure for
-the purchase of equipment, renovation and repair works in the Agmark laboratories/
-Regional and Sub-offices of DMI. 4) Agribusiness Development (ABD) throughVenture Capital Assistance (VCA) and Project Development Facility (PDF): This
-facilitates in setting up of agribusiness ventures in association with every Financial
-Institutions that are notified by the Reserve Bank of India, where the ownership of the
-Central/ State Government is more than 50%. 5) Choudhary Charan Singh National
-Institute of Agricultural Marketing: The institution undertakes and promotes the study
-of applied and operational research in problem areas of agricultural marketing and to
-serve as a national level nodal point for co-ordination of several research studies and
-dissemination of technologies that are relevant to agricultural marketing across the
-nation.
+The Government of India has approved the proposal of the Department of Agriculture and Cooperation for the continuation and integration of on-going Central Sector Schemes as Integrated Scheme for Agricultural Marketing (ISAM). The ISAM consists of the following sub schemes namely : 1) Agricultural Marketing Infrastructure: For the creation of Agricultural Marketing Infrastructure, Grameen Bhandaran Yojana (GBY) along with Scheme for Development/ Strengthening of Agricultural Marketing Infrastructure, Grading and Standardisation (AMIGS) are coordination. 2) Marketing Research and Information Network: The availability and dissemination of complete and accurate marketing information is the primary requirement for operational and pricing efficiency in the marketing system. 3)Strengthening of Agmark Grading Facilities: SAGF aims to help the DMI to implement the Agricultural Produce Act 1937 including the meeting expenditure for the purchase of equipment, renovation and repair works in the Agmark laboratories/Regional and Sub-offices of DMI. 4) Agribusiness Development (ABD) throughVenture Capital Assistance (VCA) and Project Development Facility (PDF): This facilitates in setting up of agribusiness ventures in association with every Financial Institutions that are notified by the Reserve Bank of India, where the ownership of the Central/ State Government is more than 50%. 5) Choudhary Charan Singh National Institute of Agricultural Marketing: The institution undertakes and promotes the study of applied and operational research in problem areas of agricultural marketing and to serve as a national level nodal point for co-ordination of several research studies and dissemination of technologies that are relevant to agricultural marketing across the nation.
 @
 Description
 
-Pradhan Mantri Fasal Bima Yojna (PMFBY) was introduced in 2016, replacing all the
-existing yield insurance schemes in India. The following crops are covered under the
-scheme: Food crops (Cereals, Millets and Pulses), Oilseeds, Annual commercial /
-Annual horticultural crops. The scheme will be implemented on an ‘Area Approach
-Basis’ for each notified crop for widespread calamities. The unit of insurance could be
-demographically mapped with the region which has a homogeneous risk profile for the
-particular crop. With respect to risks pertaining to localized calamities and post-
-harvest losses on account of defined peril, the Unit of Insurance for loss assessment
-shall be the affected insured field of the individual farmer. Salient Features : The
-scheme is mandatory for the farmers who have availed loans. Farmers merely need to
-pay a unified premium of 2% for all Kharif crops, 1.5% for all Rabi crops and 5% for
-annual commercial and horticultural crops. Three levels of indemnity (70%, 80% and
-90%) corresponding to crop risks in the area will be available for all crops. The
-premium rates to be paid by the farmers are considerably low and the remaining
-premium will be paid by the Government to provide the complete insured amount to
-the farmers against crop loss on account of natural calamities. Government subsidy has
-no upper limits. Removal of caps to provide complete compensation to the farmers. As
-an initiative to benefit the sector with the advances of technology, smart phones will
-be used to capture and upload data of crop cutting and remote sensing will be used to
-reduce the number of crop cutting experiences. The cost of using technology will be
-equally shared among the State/UT and Central Governments.Target Group
-The PMFBY was created to target 50 percent of all farmers, with the promise of
-compensation in case of crop loss. The previous schemes saw low enrolment rates due
-to a lack of trust.
+Pradhan Mantri Fasal Bima Yojna (PMFBY) was introduced in 2016, replacing all the existing yield insurance schemes in India. The following crops are covered under the scheme: Food crops (Cereals, Millets and Pulses), Oilseeds, Annual commercial /Annual horticultural crops. The scheme will be implemented on an ‘Area Approach Basis’ for each notified crop for widespread calamities. The unit of insurance could be demographically mapped with the region which has a homogeneous risk profile for the particular crop. With respect to risks pertaining to localized calamities and post-harvest losses on account of defined peril, the Unit of Insurance for loss assessment shall be the affected insured field of the individual farmer. Salient Features : The scheme is mandatory for the farmers who have availed loans. Farmers merely need to pay a unified premium of 2% for all Kharif crops, 1.5% for all Rabi crops and 5% for annual commercial and horticultural crops. Three levels of indemnity (70%,80%and 90%) corresponding to crop risks in the area will be available for all crops. The premium rates to be paid by the farmers are considerably low and the remaining premium will be paid by the Government to provide the complete insured amount to the farmers against crop loss on account of natural calamities. Government subsidy has no upper limits. Removal of caps to provide complete compensation to the farmers. As an initiative to benefit the sector with the advances of technology, smart phones will be used to capture and upload data of crop cutting and remote sensing will be used to reduce the number of crop cutting experiences. The cost of using technology will be equally shared among the State/UT andCentral Governments.Target Group The PMFBY was created to target 50 percent of all farmers, with the promise of compensation in case of crop loss. The previous schemes saw low enrolment rates due to a lack of trust.
 @
 Description
 
-Soil Health Card Scheme was initiated by the Prime Minister of India for the welfare
-of the farmers. The scheme helps farmers know about the crops that can be planted
-depending on the soil based on scientific methods. By doing this, the farmers can get
-maximum yield while harvesting the crops. Under the scheme, based on analysis, the
-farmers are provided with a soil health card that determines the crops that can be
-cultivated in the particular soil and measures to develop the productivity of the crops.
-The features of the Soil Health Card are as follows : The scheme intends to cover 14
-crore farmers. The scheme is implemented in all parts of the country. The card guides
-the farmers about the soil and the apt crop that can be cultivated. Soil Health Card
-contains the following details: The health of the soil. Functional characteristics of the
-soil. The water content and nutrients present in the soil. Additional properties of the
-soil. Measures to improve the defects of the soil. Benefits : The farmers will be
-notified about the soil type and they can plant crops accordingly. The authorities
-provide a report to the farmers once in 3 years after observing the soil regularly. This
-makes the farmers not to be concerned about the cultivation even if the soil changes
-due to natural factors. The farmers are also given advice by the experts to improve the
-productivity of the crops and the necessary methods that have to be practised in order
-to implement the changes. The Government sees that the same person is carrying out
-all the soil analysis so that there can be further changes that can be made if required.
-The farmers will be informed about the needed nutrients in the soil.
+Soil Health Card Scheme was initiated by the Prime Minister of India for the welfare of the farmers. The scheme helps farmers know about the crops that can be planted depending on the soil based on scientific methods. By doing this, the farmers can get maximum yield while harvesting the crops. Under the scheme, based on analysis, the farmers are provided with a soil health card that determines the crops that can be cultivated in the particular soil and measures to develop the productivity of the crops.The features of the Soil Health Card are as follows : The scheme intends to cover 14 crore farmers. The scheme is implemented in all parts of the country. The card guides the farmers about the soil and the apt crop that can be cultivated. Soil Health Card contains the following details: The health of the soil. Functional characteristics ofthe soil. The water content and nutrients present in the soil. Additional properties of the soil. Measures to improve the defects of the soil. Benefits : The farmers will be notified about the soil type and they can plant crops accordingly. The authorities provide a report to the farmers once in 3 years after observing the soil regularly. This makes the farmers not to be concerned about the cultivation even if the soil changes due to natural factors. The farmers are also given advice by the experts to improve the productivity of the crops and the necessary methods that have to be practised in order to implement the changes. The Government sees that the same person is carrying out all the soil analysis so that there can be further changes that can be made if required.The farmers will be informed about the needed nutrients in the soil.
 @
 Description
 
-Government of India introduced Pradhan Mantri Krishi Sinchayi Yojana in the Year
-2015. PMKSY was formulated to expand cultivable area under assured irrigation, to
-reduce water wastage and to improve water use efficiency in agriculture. PMKSY is
-creating protective irrigation by harnessing rain water at micro level through Jal
-Sanchay and Jal Sinchan. PMKSY has been implemented with an outlay of Rs. 50,000
-crore in five years (2015 to 2020). The net agricultural area of India is 200.8 million
-hectare, out of which only 95.8 million hectare i.e. 48% of area is covered under
-irrigation and 52% area is not covered under irrigation i.e. unirrigated area. Farmers in
-India majorly depending on rainfall for irrigation and it leads to less production output
-from farms. Components of PMKSY : Accelerated Irrigation Benefit Programme
-(AIBP). PMKSY – Har Khet Ko Pani. PMKSY – Per Drop More Crop. PMKSY –
-Watershed Development. Out of about 141 m.Ha of net area sown in the country,
-about 65 million hectare (or 45%) is presently covered under irrigation. Substantial
-dependency on rainfall makes cultivation in unirrigated areas a high risk, less
-productive profession. Empirical evidences suggest that assured or protective
-irrigation encourages farmers to invest more in farming technology and inputs leading
-to productivity enhancement and increased farm income.
+Government of India introduced Pradhan Mantri Krishi Sinchayi Yojana in the Year 2015. PMKSY was formulated to expand cultivable area under assured irrigation, to reduce water wastage and to improve water use efficiency in agriculture. PMKSY is creating protective irrigation by harnessing rain water at micro level through Jal Sanchay and Jal Sinchan. PMKSY has been implemented with an outlay of Rs. 50,000 crore in five years (2015 to 2020). The net agricultural area of India is 200.8 million hectare, out of which only 95.8 million hectare i.e. 48% of area is covered under irrigation and 52% area is not covered under irrigation i.e. unirrigated area. Farmers in India majorly depending on rainfall for irrigation and it leads to less production output from farms. Components of PMKSY : Accelerated Irrigation Benefit Programme(AIBP). PMKSY – Har Khet Ko Pani. PMKSY – Per Drop More Crop. PMKSY –Watershed Development. Out of about 141 m.Ha of net area sown in the country,about 65 million hectare (or 45%) is presently covered under irrigation. Substantial dependency on rainfall makes cultivation in unirrigated areas a high risk, less productive profession. Empirical evidences suggest that assured or protective irrigation encourages farmers to invest more in farming technology and inputs leading to productivity enhancement and increased farm income.
 @
 Description
 
-The Kisan Credit Card (KCC) scheme was introduced in 1998-99 to fulfil the financial
-requirements of the farmers at various stages of farming through institutional credit.
-The salient features of the scheme are: The eligible cultivator will receive a smart card
-(works as a debit card) along with the Kisan Credit Card. There is no limit for
-withdrawal in case of revolving credit and proper repayments. However, it is advisable
-to repay the withdrawals in 12 months in installments. The rate of interest is set by the
-respective banks. Nonetheless, the rate must range between 9- 14%. The annual
-reviewing of the credit card determines its validity. Consequently, the bank is in
-charge of this annual review function. It is possible to expand the credit limit by
-notifying bank on the cropping pattern changes, rise in operating charges, etc.
-Nonetheless, this is applicable only if the cultivator maintains a good record on the
-usage of credit card. The pattern of loans can be modified in case of natural disasters
-damaging the crops. Necessary documents for KCC application: The notification from
-Reserve bank of India (RBI) suggests the applicants provide documents as per their
-respective bank’s guidelines. Thereby, a set of general documents necessary is as
-follows: Application form, Identity proof copy (Aadhar card, PAN card, Voter ID,
-Driver’s license, etc.), Address proof, Land Documents, Passport size photo and
-Supporting documents such as Security PDC on request from the bank.
+The Kisan Credit Card (KCC) scheme was introduced in 1998-99 to fulfil the financial requirements of the farmers at various stages of farming through institutional credit.The salient features of the scheme are: The eligible cultivator will receive a smart card(works as a debit card) along with the Kisan Credit Card. There is no limit for withdrawal in case of revolving credit and proper repayments. However, it is advisable to repay the withdrawals in 12 months in installments. The rate of interest is set by the respective banks. Nonetheless, the rate must range between 9- 14%. The annual reviewing of the credit card determines its validity. Consequently, the bank is in charge of this annual review function. It is possible to expand the credit limit by notifying bank on the cropping pattern changes, rise in operating charges, etc. Nonetheless, this is applicable only if the cultivator maintains a good record on the usage of credit card. The pattern of loans can be modified in case of natural disasters damaging the crops. Necessary documents for KCC application: The notification from Reserve bank of India (RBI) suggests the applicants provide documents as per their respective bank’s guidelines. Thereby, a set of general documents necessary is as follows: Application form, Identity proof copy (Aadhar card, PAN card, Voter ID,Driver’s license, etc.), Address proof, Land Documents, Passport size photo and Supporting documents such as Security PDC on request from the bank.
 @
 Description
 
-Terming agriculture as “absolutely critical to the country’s economy”, union Finance
-Minister Arun Jaitley on launched Unified Package Insurance Scheme. This scheme
-has the the potential to reduce distress in the farm sector and would be rolled out in a
-“mission mode” from April 1 to cover Kharif crops. The importance of Unified
-Package Insurance Scheme : This scheme is designed to take care of the insurance
-needs of citizens associated in the agriculture sector. This scheme provides yield-based
-crop insurance to the farmer based on his ownership rights of property. The scheme
-covers both the personal assets of the farmer like the dwelling and its contents, the
-other assets which help him/her in earning his livelihoods such as Agricultural Pump
-Sets and Agriculture Tractor owned by the farmer. The Unified Package Insurance
-Scheme protects the farmer and his family members in case of the Accidental Death,
-accidental insurance protection of farmer’s school or college going children and
-provisioning of education fee to the student in case of death of the parents. The
-insurance under Unified Package Insurance Scheme will be issued for one year.Life
-insurance protection to the farmers and his family members. The insurance or sections
-covered under the Unified Package Insurance Scheme is listed as follows: Crop
-Insurance. Personal Accident Insurance. Building and Contents Insurance. Agriculture
-Pumpset Insurance (Upto 10 Horse Power). Agricultural Tractors Insurance. Student
-Safety Insurance. Life Insurance.
+Terming agriculture as “absolutely critical to the country’s economy”, union Finance Minister Arun Jaitley on launched Unified Package Insurance Scheme. This scheme has the the potential to reduce distress in the farm sector and would be rolled out in a “mission mode” from April 1 to cover Kharif crops. The importance of Unified Package Insurance Scheme : This scheme is designed to take care of the insurance needs of citizens associated in the agriculture sector. This scheme provides yield-based crop insurance to the farmer based on his ownership rights of property. The schemecovers both the personal assets of the farmer like the dwelling and its contents, the other assets which help him/her in earning his livelihoods such as Agricultural Pump Sets and Agriculture Tractor owned by the farmer. The Unified Package Insurance Scheme protects the farmer and his family members in case of the Accidental Death,accidental insurance protection of farmer’s school or college going children and provisioning of education fee to the student in case of death of the parents. The insurance under Unified Package Insurance Scheme will be issued for one year.Life insurance protection to the farmers and his family members. The insurance or sections covered under the Unified Package Insurance Scheme is listed as follows: Crop Insurance. Personal Accident Insurance. Building and Contents Insurance. Agriculture Pumpset Insurance (Upto 10 Horse Power). Agricultural Tractors Insurance. Student Safety Insurance. Life Insurance.
 @
 Description
 
-Krishi Vigyan Kendras is acting as innovative institutions for imparting vocational
-training to the Farmers and school dropouts. Activities: Planning and conducting
-survey of the operational area in order to prepare the resource inventory with special
-reference to identifying the training needs of the farming community. Planning and
-conducting production- oriented, need-based short and long duration training courses
-both on campus as well as in the villages for various target groups with priority on the
-weaker and the poor. Developing and organizing non-formal educational programmes
-by way of field days, farm visits, farmers fair, radio talk, Farm Science clubs etc. as
-the follow up information support to training courses. Organizing farm science clubs,
-both in rural schools and in villages in order to induce in younger generation a liking
-for and an interest for agricultural and allied sciences and scientific farming through
-supervised projects. Developing and maintaining the campus farms and demonstration
-units on scientific lines as the facilities for providing work experience to the trainees
-as also disseminating the latest technical know how. Providing practical facilities of
-the Kendra to the teachers and the students of the vocational agriculture of the higher
-secondary schools. Imparting some general education to rural illiterates and school
-drop-outs in order to make them not only good farmers but also better citizens.
-Providing added training facilities in the areas for home making and nutrition
-education for rural community. Gradually enlarging the training facilities to
-encompass other important areas such as home crafts , cottage industries etc.
-consistent to the requirements of the Integrated rural Development in collaboration
-with concerned organization.Implementing all such schemes of the ICAR and otherrelated organizations which intend to strengthen the training programmes of the
-Kendra.
+Krishi Vigyan Kendras is acting as innovative institutions for imparting vocational training to the Farmers and school dropouts. Activities: Planning and conducting survey of the operational area in order to prepare the resource inventory with special reference to identifying the training needs of the farming community. Planning and conducting production- oriented, need-based short and long duration training courses both on campus as well as in the villages for various target groups with priority on the weaker and the poor. Developing and organizing non-formal educational programmes by way of field days, farm visits, farmers fair, radio talk, Farm Science clubs etc. as the follow up information support to training courses. Organizing farm science clubs, both in rural schools and in villages in order to induce in younger generation a liking for and an interest for agricultural and allied sciences and scientific farming through supervised projects. Developing and maintaining the campus farms and demonstration units on scientific lines as the facilities for providing work experience to the trainees as also disseminating the latest technical know how. Providing practical facilities of the Kendra to the teachers and the students of the vocational agriculture of the higher secondary schools. Imparting some general education to rural illiterates and school drop-outs in order to make them not only good farmers but also better citizens.Providing added training facilities in the areas for home making and nutrition education for rural community. Gradually enlarging the training facilities to encompass other important areas such as home crafts , cottage industries etc.consistent to the requirements of the Integrated rural Development in collaboration with concerned organization.Implementing all such schemes of the ICAR and otherrelated organizations which intend to strengthen the training programmes of the Kendra.
 @
 Description
 
-Government of India, Ministry of Agriculture, Department of Agriculture & Co-
-Operation (DAC) has launched a scheme “Strengthening and Modernization of Pest
-Management Approach in India” since 1991-92 by adopting Integrated Pest
-Management (IPM) as cardinal principle and main plank of plant protection strategy in
-overall crop production programme. Under the ambit of IPM programme, the Govt. of
-India has established 31 Central IPM Centres in 28 States and one UT. “Strengthening
-and Modernization of Pest Management Approach in India” is a centralsector scheme
-having following main components: Integrated Pest Management, Locust Warning
-Organization (LWO), Implementation of Insecticides Act(IIA), Techno-legal Cell and
-Setting up of a National Pesticide Reference Repository (NPRR). Activities:
-Popularizing IPM approach among farming community. Conducting regular pest
-surveillance and monitoring to assess pest/disease situation. Rearing biological control
-agents for their field use and conservation of naturally occurring bio-agents.
-Promotion of bio-pesticides and neem based pesticides as alternative to chemical
-pesticides. To play a catalytic role in spread of innovative IPM skills to extension
-workers, land farmers equally to resource-poor and resource-rich states. Human
-Resource Development in IPM by imparting training to master trainers, extension
-workers and farmers through farmers field schools (FFSs). HRD programme (short
-duration) courses of two days and five days for Pesticides.Dealers/NGOs/Graduates/Post-graduates/Private Entrepreneurs and progressive
-farmers. Season Long Training (SLT) programme on major agricultural/horticultural
-crops.
+Government of India, Ministry of Agriculture, Department of Agriculture & Co-Operation (DAC) has launched a scheme “Strengthening and Modernization of Pest Management Approach in India” since 1991-92 by adopting Integrated Pest Management (IPM) as cardinal principle and main plank of plant protection strategy in overall crop production programme. Under the ambit of IPM programme, the Govt. of India has established 31 Central IPM Centres in 28 States and one UT. “Strengthening and Modernization of Pest Management Approach in India” is a centralsector scheme having following main components: Integrated Pest Management, Locust Warning Organization (LWO), Implementation of Insecticides Act(IIA), Techno-legal Cell and Setting up of a National Pesticide Reference Repository (NPRR). Activities: Popularizing IPM approach among farming community. Conducting regular pest surveillance and monitoring to assess pest/disease situation. Rearing biological control agents for their field use and conservation of naturally occurring bio-agents. Promotion of bio-pesticides and neem based pesticides as alternative to chemical pesticides. To play a catalytic role in spread of innovative IPM skills to extension workers, land farmers equally to resource-poor and resource-rich states. Human Resource Development in IPM by imparting training to master trainers, extension workers and farmers through farmers field schools (FFSs). HRD programme (short duration) courses of two days and five days forPesticides.Dealers/NGOs/Graduates/Postgraduates/Private Entrepreneurs and progressive farmers. Season Long Training (SLT) programme on major agricultural/horticultural crops.
 @
 Description
 
-Pandit Deen Dayal Upadhyay Unnat Krishi Shiksha Yojana was launched in the year
-2016 with the objective of promoting agricultural education in terms of cow-based
-economy, natural farming and organic farming. Scope of Implementation: A total of
-100 centers across the country would be engaged in implementing the scheme with a
-fund of Rs.5.35 crore. These centers were selected on the basis of their knowledge,
-skill, ability and experience connected with organic and natural farming. A team of
-coordinators numbering to four has been appointed for coordinating the various
-activities of the scheme. Some of these activities include the provision of training on
-issues connected with organic farming, natural farming and cow-based economics as
-per the designed modules, the selection of beneficiaries in consultation with nodal
-agencies, ensuring the welfare of the participants, etc. The Themes in Brief: The
-scheme is based on the themes of cow-based economy, natural farming and organic
-farming. Here’s a brief account of each of these themes: Cow-Based Economy: With
-respect to agriculture, Indian cow breeds are proven to possess genetic capacity that
-produces better quality milk. The milk so produced contains a higher level of CLA
-(Conjugated Linoleic Acid) which is anti-carcinogenic. Natural Farming: Natural
-farming eliminates energy/production costs, fertilizer and other input costs, improves
-underground water level without contamination, helps conserving moisture and
-protects the crops from the effects of climate change. Organic Farming: The
-methodology is primarily aimed at cultivating the land and raising crops in such a way
-as to ensure the health and life of the soil. It involves the use of organic wastes and
-other biological materials along with beneficial microbes.
+Pandit Deen Dayal Upadhyay Unnat Krishi Shiksha Yojana was launched in the year 2016 with the objective of promoting agricultural education in terms of cow-based economy, natural farming and organic farming. Scope of Implementation: A total of 100 centers across the country would be engaged in implementing the scheme with a fund of Rs.5.35 crore. These centers were selected on the basis of their knowledge,skill, ability and experience connected with organic and natural farming. A team of coordinators numbering to four has been appointed for coordinating the various activities of the scheme. Some of these activities include the provision of training on issues connected with organic farming, natural farming and cow-based economics as per the designed modules, the selection of beneficiaries in consultation with nodal agencies, ensuring the welfare of the participants, etc. The Themes in Brief: The scheme is based on the themes of cow-based economy, natural farming and organic farming. Here’s a brief account of each of these themes: Cow-Based Economy: With respect to agriculture, Indian cow breeds are proven to possess genetic capacity that produces better quality milk. The milk so produced contains a higher level of CLA (Conjugated Linoleic Acid) which is anti-carcinogenic. Natural Farming: Natural farming eliminates energy/production costs, fertilizer and other input costs, improves underground water level without contamination, helps conserving moisture and protects the crops from the effects of climate change. Organic Farming: The methodology is primarily aimed at cultivating the land and raising crops in such a way as to ensure the health and life of the soil. It involves the use of organic wastes and other biological materials along with beneficial microbes.
 @
 Description
 
-The new scheme ARYA has recently been launched by the Indian Council of
-Agricultural Research (ICRA). Under the ARYA scheme, the state government will
-attract rural youth in agricultural activities by making them skilled and make the state
-self-dependent in agriculture. This program is planned to be implemented through
-Krishi Vigyan Kendras (KVK-Farm science centres) in 25 states of our country. Each
-KVK would train about 200 to 300 youth in taking up agriculture’s allied and
-supplementary activities such as poultry farming, dairying, fisheries, goat rearing,
-mushroom production and other similar activities which keep the rural youth attached
-to agriculture, either directly or indirectly. At KVKs also one or two enterprise units
-will be established so that they serve as entrepreneurial training units for farmers. The
-purpose is to establish economic models for youth in the villages so that youths get
-attracted in agriculture and overall rural situation is improved. Finally, the trained
-young entrepreneurs would be assisted in preparing project reports for seeking bank
-loans. Activities performed by Trained Youth : Identify the barren land on respective
-villages and promote farmers to grow pulse on them. To promote farmers to grow
-something else after harvesting paddy. To inspire farmers to use fertilisers as per Soil
-Health Card. To propagate the use of neem coated urea. To promote farmers for
-agriculture of rabbi. To inspire farmers for Prime Minister Crop Insurance Scheme. To
-register farmers on Farmer Portal. To provide farmers new technology by telephoning
-Kisan Call Center. To promote seed treatment.
+The new scheme ARYA has recently been launched by the Indian Council of Agricultural Research (ICRA). Under the ARYA scheme, the state government will attract rural youth in agricultural activities by making them skilled and make the state self-dependent in agriculture. This program is planned to be implemented through Krishi Vigyan Kendras (KVK-Farm science centres) in 25 states of our country. Each KVK would train about 200 to 300 youth in taking up agriculture’s allied and supplementary activities such as poultry farming, dairying, fisheries, goat rearing,mushroom production and other similar activities which keep the rural youth attachedto agriculture, either directly or indirectly. At KVKs also one or two enterprise units will be established so that they serve as entrepreneurial training units for farmers. The purpose is to establish economic models for youth in the villages so that youths getattracted in agriculture and overall rural situation is improved. Finally, the trained young entrepreneurs would be assisted in preparing project reports for seeking bank loans. Activities performed by Trained Youth : Identify the barren land on respective villages and promote farmers to grow pulse on them. To promote farmers to grow something else after harvesting paddy. To inspire farmers to use fertilisers as per Soil Health Card. To propagate the use of neem coated urea. To promote farmers for agriculture of rabbi. To inspire farmers for Prime Minister Crop Insurance Scheme. To register farmers on Farmer Portal. To provide farmers new technology by telephoning Kisan Call Center. To promote seed treatment.
 @
 Description
 
-AP YSR Rythu Bharosa is a flagship welfare scheme of Government of Andhra Pradesh. This scheme was launched to provide financial assistance to the farmers of the state. There is a total of 69 lakh+ farmers in the state and out of which beneficiary farmers will get the benefit of this scheme.
-Under this scheme, the beneficiary farmers will be provided an assistance of Rs.13500/- per year (Including the benefit of Rs.6000/- per year per farmer family provided by the Govt. of India under PMKISAN scheme) for 5 years (earlier it was 4 years).
+AP YSR Rythu Bharosa is a flagship welfare scheme of Government of Andhra Pradesh. This scheme was launched to provide financial assistance to  the farmers of the state. There is a total of 69 lakh+ farmers in the state and out of which beneficiary farmers will get the benefit of this scheme.Under this scheme, the beneficiary farmers will be provided an assistance of Rs.13500/- per year (Including the benefit of Rs.6000/- per year per farmer family provided by the Govt. of India under PMKISAN scheme) for 5 years (earlier it was 4 years).
 @
 Description
 
-National Dairy Plan Phase I (NDP I), a Central Sector Scheme of Government of
-India, launched March 2012, is a scientifically planned multi-state initiative being
-implemented by National Dairy Development Board (NDDB) with the network of End
-Implementing Agencies (EIAs) for the period 2011-12 to 2018-19. NDP-I is an
-externally aided project with the total outlay of Rs. 2242 Crore comprising Rs. 1584
-Crore as International Development Association (World Bank) assistance, Rs. 176
-Crore as GoI share, Rs. 282 Crore as share of EIAs that will carry out the projects in
-participating States and support of Rs. 200 Crore by National Dairy Development
-Board and its subsidiaries for providing technical and implementation support to the
-project. NDP I is being implemented in 18 major milk producing States namely,
-Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Haryana, Jharkhand, Karnataka, Kerala,
-Madhya Pradesh, Maharashtra, Odisha, Punjab, Rajasthan, Tamil Nadu, Telangana,
-Uttar Pradesh, Uttarakhand and West Bengal. These States account for more than 90
-% of the country’s milk production. However, coverage of NDP I is across the country
-in terms of benefits accrued from the project.
+National Dairy Plan Phase I (NDP I), a Central Sector Scheme of Government of India, launched March 2012, is a scientifically planned multi-state initiative being implemented by National Dairy Development Board (NDDB) with the network of End Implementing Agencies (EIAs) for the period 2011-12 to 2018-19. NDP-I is an externally aided project with the total outlay of Rs. 2242 Crore comprising Rs. 1584 Crore as International Development Association (World Bank) assistance, Rs. 176 Crore as GoI share, Rs. 282 Crore as share of EIAs that will carry out the projects in participating States and support of Rs. 200 Crore by National Dairy Development Board and its subsidiaries for providing technical and implementation support to the project. NDP I is being implemented in 18 major milk producing States namely,Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Haryana, Jharkhand, Karnataka, Kerala,Madhya Pradesh, Maharashtra, Odisha, Punjab, Rajasthan, Tamil Nadu, Telangana,Uttar Pradesh, Uttarakhand and West Bengal. These States account for more than 90 % of the country’s milk production. However, coverage of NDP I is across the country in terms of benefits accrued from the project.
 @
 Description
 
-The Department of Animal Husbandry, dairying, and fisheries(Ministry of
-Agriculture) is implementing Dairy Entrepreneurship Development Scheme (DEDS)
-for generating self-employment opportunities in the dairy sector, covering activities
-such as enhancement of milk production, procurement, preservation, transportation,
-processing and marketing of milk by providing back-ended capital subsidy for
-bankable projects. The scheme is being implemented by the National Bank for
-Agriculture and Rural Development (NABARD), which provides financial assistance
-to commercially bankable projects with loan from Commercial, Cooperative, Urban
-and Rural banks with a back ended capital subsidy of 25% of the project cost to the
-beneficiaries of general category and 33.33% of the project cost to SC & ST
-beneficiaries. Dairy/Poultry Venture Capital Fund scheme was started in December
-2004 with an outlay of Rs. 25 Crore. This scheme has been fragmented into two
-separate scheme viz. Dairy Venture Capital Fund & Poultry Venture Capital Fund
-from the financial year 2008-09. During June 2010, the Dairy Venture Capital Fund
-scheme was revamped to Dairy Entrepreneurship Development Scheme to make it
-more effective through wider coverage, enhanced component-wise outlays and by
-including new components for assistance under the scheme. The new modified scheme
-DEDS was started from 01.09.2010.
+The Department of Animal Husbandry, dairying, and fisheries(Ministry of Agriculture) is implementing Dairy Entrepreneurship Development Scheme (DEDS) for generating self-employment opportunities in the dairy sector, covering activities such as enhancement of milk production, procurement, preservation, transportation,processing and marketing of milk by providing back-ended capital subsidy for bankable projects. The scheme is being implemented by the National Bank for Agriculture and Rural Development (NABARD), which provides financial assistance to commercially bankable projects with loan from Commercial, Cooperative, Urban and Rural banks with a back ended capital subsidy of 25% of the project cost to the beneficiaries of general category and 33.33% of the project cost to SC & ST beneficiaries. Dairy/Poultry Venture Capital Fund scheme was started in December 2004 with an outlay of Rs. 25 Crore. This scheme has been fragmented into two separate scheme viz. Dairy Venture Capital Fund & Poultry Venture Capital Fund from the financial year 2008-09. During June 2010, the Dairy Venture Capital Fund scheme was revamped to Dairy Entrepreneurship Development Scheme to make it more effective through wider coverage, enhanced component-wise outlays and by including new components for assistance under the scheme. The new modified scheme DEDS was started from 01.09.2010.
 @
 Description
 
-Mission for Integrated Development of Horticulture (MIDH) Mission for Integrated
-Development of Horticulture (MIDH) is a Centrally Sponsored Scheme for the holistic
-growth of the horticulture sector covering fruits, vegetables, root & tuber crops,
-mushrooms, spices, flowers, aromatic plants, coconut, cashew, cocoa and bamboo.
-Under MIDH, Government of India (GOI) contributes 60%, of total outlay for
-developmental programmes in all the states except states in North East and Himalayas,
-40% share is contributed by State Governments. In the case of North Eastern States
-and Himalayan States, GOI contributes 90%. In case of National Horticulture Board
-(NHB), Coconut Development Board (CDB), Central Institute for Horticulture (CIH),
-Nagaland and the National Level Agencies (NLA), GOI contributes 100%. MIDH also
-provides technical advice and administrative support to State Governments/ State
-Horticulture Missions (SHMs) for the Saffron Mission and other horticulture related
-activities Rashtriya Krishi Vikas Yojana (RKVY)/NMSA. It integrated the following 6
-schemes/ scheme implementing agencies: National Horticulture Mission, Horticulture
-Mission for North East & Himalayan States, National Bamboo Mission, National
-Horticulture Board, Coconut Development Board and Central Institute for
-Horticulture, Nagaland.
+Mission for Integrated Development of Horticulture (MIDH) Mission for Integrated Development of Horticulture (MIDH) is a Centrally Sponsored Scheme for the holistic growth of the horticulture sector covering fruits, vegetables, root & tuber crops,mushrooms, spices, flowers, aromatic plants, coconut, cashew, cocoa and bamboo.Under MIDH, Government of India (GOI) contributes 60%, of total outlay for developmental programmes in all the states except states in North East and Himalayas,40% share is contributed by State Governments. In the case of North Eastern States and Himalayan States, GOI contributes 90%. In case of National Horticulture Board (NHB), Coconut Development Board (CDB), Central Institute for Horticulture (CIH),Nagaland and the National Level Agencies (NLA), GOI contributes 100%. MIDH also provides technical advice and administrative support to State Governments/ State Horticulture Missions (SHMs) for the Saffron Mission and other horticulture related activities Rashtriya Krishi Vikas Yojana (RKVY)/NMSA. It integrated the following 6 schemes/ scheme implementing agencies: National Horticulture Mission, Horticulture Mission for North East & Himalayan States, National Bamboo Mission, National Horticulture Board, Coconut Development Board and Central Institute for Horticulture, Nagaland.
 @
 Description
 
-India is one of the major edible oil consuming and producing countries in the world.
-The distinct agricultural environment in India provides an opportunity to produce 9
-different oilseeds such as groundnut, rapeseed, castor, niger, safflower, sesame,
-sunflower, soybean, mustard and linseed. National Mission on Oilseeds and Oil Palm
-(NMOOP) was implemented during the 12th Five Year Plan, to expand the oil palm
-areas and increase the production of edible oils. The strategy to implement the
-proposed Mission will include increasing Seed Replacement Ratio (SRR) with focus
-on Varietal Replacement; increasing irrigation coverage under oilseeds from 26% to
-36%; diversification of area from low yielding cereals crops to oilseeds crops; inter-
-cropping of oilseeds with cereals/ pulses/ sugarcane; use of fallow land after paddy
-/potato cultivation; expansion of cultivation of Oil Palm & TBOs in watersheds and
-wastelands; increasing availability of quality planting materials of Oil Palm & TBOs;
-enhancing procurement of oilseeds and collection & processing of TBOs. Inter
-cropping during gestation period of oil palm and TBOs would provide economic
-return to the farmers when there is no production. The scheme would be implemented
-in a mission mode through active involvement of all the stakeholders. Under the
-MM–I, the mission aims to increase the production of oilseeds to 35.51 million tonnes
-from the current average production of 28.93 million tonnes of oilseeds.Under the
-MM–II, the mission’s target is to broaden the area for oil palm cultivation and boost
-the production of Fresh Fruit Bunches (FFBs) from 4927 kg/ha to 15,000 kg/ha.Target Group
-Fund flow would be monitored to ensure that benefit of the Mission reaches the
-targeted beneficiaries in time to achieve the targeted results.
+India is one of the major edible oil consuming and producing countries in the world.The distinct agricultural environment in India provides an opportunity to produce 9different oilseeds such as groundnut, rapeseed, castor, niger, safflower, sesame,sunflower, soybean, mustard and linseed. National Mission on Oilseeds and Oil Palm(NMOOP) was implemented during the 12th Five Year Plan, to expand the oil palm areas and increase the production of edible oils. The strategy to implement the proposed Mission will include increasing Seed Replacement Ratio (SRR) with focus on Varietal Replacement; increasing irrigation coverage under oilseeds from 26% to 36%; diversification of area from low yielding cereals crops to oilseeds crops; inter-cropping of oilseeds with cereals/ pulses/ sugarcane; use of fallow land after paddy /potato cultivation; expansion of cultivation of Oil Palm & TBOs in watersheds and wastelands; increasing availability of quality planting materials of Oil Palm & TBOs;enhancing procurement of oilseeds and collection & processing of TBOs. Inter cropping during gestation period of oil palm and TBOs would provide economic return to the farmers when there is no production. The scheme would be implemented in a mission mode through active involvement of all the stakeholders. Under the MM–I, the mission aims to increase the production of oilseeds to 35.51 million tonnes from the current average production of 28.93 million tonnes of oilseeds.Under the MM–II, the mission’s target is to broaden the area for oil palm cultivation and boost the production of Fresh Fruit Bunches (FFBs) from 4927 kg/ha to 15,000 kg/ha.Target Group Fund flow would be monitored to ensure that benefit of the Mission reaches the targeted beneficiaries in time to achieve the targeted results.
 @
 Description
 
-The Paramparagat Krishi Vikas Yojana (PKVY), launched in 2015, is an extended
-component of Soil Health Management (SHM) under the Centrally Sponsored Scheme
-(CSS), National Mission on Sustainable Agriculture (NMSA)1. PKVY aims at
-supporting and promoting organic farming, in turn resulting in improvement of soil
-health. The scheme promotes Participatory Guarantee System (PGS) For India (PGS-
-India)2 form of organic certification that is built on mutual trust, locally relevant and
-mandates the involvement of producers and consumers in the process of certification.
-PGS – India operates outside the framework of “Third Party Certification3”. Funding
-pattern under the scheme is in the ratio of 60:40 by the Central and State Governments
-respectively. In case of North Eastern and Himalayan States, Central Assistance is
-provided in the ratio of 90:10 (Centre: State) and for Union Territories, the assistance
-is 100%. The Scheme targets to form 10,000 clusters of 20 ha each and bring nearly
-two lakh hectares of agricultural area under organic farming by 2017-18.
+The Paramparagat Krishi Vikas Yojana (PKVY), launched in 2015, is an extended component of Soil Health Management (SHM) under the Centrally Sponsored Scheme(CSS), National Mission on Sustainable Agriculture (NMSA)1. PKVY aims at supporting and promoting organic farming, in turn resulting in improvement of soil health. The scheme promotes Participatory Guarantee System (PGS) For India (PGS-India)2 form of organic certification that is built on mutual trust, locally relevant andmandates the involvement of producers and consumers in the process of certification.PGS – India operates outside the framework of “Third Party Certification3”. Funding pattern under the scheme is in the ratio of 60:40 by the Central and State Governments respectively. In case of North Eastern and Himalayan States, Central Assistance is provided in the ratio of 90:10 (Centre: State) and for Union Territories, the assistanceis 100%. The Scheme targets to form 10,000 clusters of 20 ha each and bring nearly two lakh hectares of agricultural area under organic farming by 2017-18.
 @
 Description
 
-National Mission for Sustainable Agriculture (NMSA) has been formulated for
-enhancing agricultural productivity especially in rainfed areas focusing on integrated
-farming, water use efficiency, soil health management and synergizing resource
-conservation. It is one of the major missions of the National Action Plan on Climate
-Change (NAPCC). Change in agricultural practices also plays a crucial role in the
-mitigation of climate change effects. This mission tries to comprehensively revamp the
-agricultural practices so that the desired objectives of the Nationally Determined
-Contributions (NDC’s) can be achieved. Mission Interventions: NMSA has following
-four (4) major programme components or activities: Rainfed Area Development
-(RAD): RAD adopts an area based approach for development and conservation of
-natural resources along with farming systems. On Farm Water Management(OFWM): OFWM focuses primarily on enhancing water use efficiency by promoting
-efficient on - farm water management technologies and equipment. Soil Health
-Management (SHM): SHM aims at promoting location as well as crop specific
-sustainable soil health management including residue management, organic farming
-practices by way of creating and linking soil fertility maps with macro - micro nutrient
-management, appropriate land use based on land capability, judicious application of
-fertilizers and minimizing the soil erosion/degradation. Climate Change and
-Sustainable Agriculture: CCSAMMN provides creation and bidirectional
-(land/farmers to research/scientific establishments and vice versa) dissemination of
-climate change related information and knowledge by way of piloting climate change
-adaptation/mitigation research/model projects in the domain of climate smart
-sustainable management practices and integrated farming system suitable to local agro- climatic conditions.
+National Mission for Sustainable Agriculture (NMSA) has been formulated for enhancing agricultural productivity especially in rainfed areas focusing on integrated farming, water use efficiency, soil health management and synergizing resource conservation. It is one of the major missions of the National Action Plan on Climate Change (NAPCC). Change in agricultural practices also plays a crucial role in the mitigation of climate change effects. This mission tries to comprehensively revamp the agricultural practices so that the desired objectives of the Nationally Determined Contributions (NDC’s) can be achieved. Mission Interventions: NMSA has following four (4) major programme components or activities: Rainfed Area Development (RAD): RAD adopts an area based approach for development and conservation of natural resources along with farming systems. On Farm Water Management(OFWM): OFWM focuses primarily on enhancing water use efficiency by promoting efficient on - farm water management technologies and equipment. Soil HealthManagement (SHM): SHM aims at promoting location as well as crop specific sustainable soil health management including residue management, organic farming practices by way of creating and linking soil fertility maps with macro - micro nutrient management, appropriate land use based on land capability, judicious application of fertilizers and minimizing the soil erosion/ degradation. Climate Change and Sustainable Agriculture: CCSAMMN provides creation and bidirectional(land/farmers to research/scientific establishments and vice versa) dissemination of climate change related information and knowledge by way of piloting climate change adaptation /mitigation research/model projects in the domain of climate smart sustainable management practices and integrated farming system suitable to local agro- climatic conditions.
 @
 Description
 
-Small Farmers’ Agribusiness Consortium (SFAC) is the lead promoter of NAM.
-SFAC is a registered society of Department of Agriculture, Cooperation & Farmers’
-Welfare (DAC&FW) under Ministry of Agriculture and Farmer Welfare. National
-Agricultural Market (NAM), implemented on 01.07.2015, is a pan-India electronic
-trading portal that networks the existing Agricultural Produce Marketing Committee
-(APMAC) mandis to create a unified national market for agricultural commodities.
-The NAM portal provides a single platform for every information and services that are
-related to APMAC. These information includes commodity arrivals and prices, buy
-and sell trade offers and provision to respond to trade offers. NAM is a national e-
-market platform for transparent sale transactions and price discovery that is authorised
-in markets. Liberal licensing of traders, buyers and commission agent by the State
-authorities without any prior conditions of physical presence or possession of
-premises/ shops in the market yard. Once license for a trader is valid throughout all the
-markets in the State. Harmonisation of quality standards of agricultural produce and
-provision for determining infrastructure in every market for bidding by buyers. The
-common tradable parameters have developed for 90 commodities. A single point levy
-of market fee for the first wholesale purchase from the farmer. Provision of Soil
-Testing Laboratories for specific mandi to facilitate farmers to access the facility in the
-mandis.
+Small Farmers’ Agribusiness Consortium (SFAC) is the lead promoter of NAM. SFAC is a registered society of Department of Agriculture, Cooperation & Farmers’ Welfare (DAC&FW) under Ministry of Agriculture and Farmer Welfare. National Agricultural Market (NAM), implemented on 01.07.2015, is a pan-India electronic trading portal that networks the existing Agricultural Produce Marketing Committee (APMAC) mandis to create a unified national market for agricultural commodities. The NAM portal provides a single platform for every information and services that are related to APMAC. These information includes commodity arrivals and prices, buy and sell trade offers and provision to respond to trade offers. NAM is a national e-market platform for transparent sale transactions and price discovery that is authorised in markets. Liberal licensing of traders, buyers and commission agent by the State authorities without any prior conditions of physical presence or possession of premises / shops in the market yard. Once license for a trader is valid throughout all the markets in the State. Harmonisation of quality standards of agricultural produce and provision for determining infrastructure in every market for bidding by buyers. The common tradable parameters have developed for 90 commodities. A single point levy of market fee for the first wholesale purchase from the farmer. Provision of Soil Testing Laboratories for specific mandi to facilitate farmers to access the facility in the mandis.
 @
 Description
 
-The Standing Committee on Agriculture (Chair: Mr. Hukmdev Narayan Yadav)
-submitted its report on ‘Agriculture Marketing and Role of Weekly Gramin Haats’ on
-January 3, 2019. Agriculture marketing in most states is regulated by the Agriculture
-Produce Marketing Committees (APMCs) established by state governments. Small
-and marginal farmers face various issues, such as inadequate marketable surplus, long
-distance to nearest APMC markets, and lack of transportation facilities, in selling their
-produce in APMC markets. Gramin Haats are markets in rural areas where such
-farmers can sell their produce without going to APMC markets. The Committee noted
-that since the GrAM scheme requires funds available under various government
-schemes, inter-ministerial coordination is required at the central and state levels. It
-recommended that a monitoring committee should be formed for planning and time
-bound implementation of the scheme. In total, infrastruture in around 22,000 rural
-haats is to be upgraded and modernised with the corpus of almost Rs. 20 billion spread
-over 2-3 years. Of this in the first phase the centre has idetified around 1,878 rural
-haats, which includes the maximum around 564 haats in Andhra Pradesh, followed by
-188 in Gujarat, 186 in Rajasthan, 182 in Tamilnadu and 176 in Telangana. GrAms to
-be linked with e-NAM.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The Standing Committee on Agriculture (Chair: Mr. Hukmdev Narayan Yadav) submitted its report on ‘Agriculture Marketing and Role of Weekly Gramin Haats’ on January 3, 2019. Agriculture marketing in most states is regulated by the Agriculture Produce Marketing Committees (APMCs) established by state governments. Small and marginal farmers face various issues, such as inadequate marketable surplus, long distance to nearest APMC markets, and lack of transportation facilities, in selling their produce in APMC markets. Gramin Haats are markets in rural areas where such farmers can sell their produce without going to APMC markets. The Committee noted that since the GrAM scheme requires funds available under various government schemes, inter-ministerial coordination is required at the central and state levels. It recommended that a monitoring committee should be formed for planning and time bound implementation of the scheme. In total, infrastruture in around 22,000 rural haats is to be upgraded and modernised with the corpus of almost Rs. 20 billion spread over 2-3 years. Of this in the first phase the centre has idetified around 1,878 rural haats, which includes the maximum around 564 haats in Andhra Pradesh, followed by 188 in Gujarat, 186 in Rajasthan, 182 in Tamilnadu and 176 in Telangana. GrAms to be linked with e-NAM.
